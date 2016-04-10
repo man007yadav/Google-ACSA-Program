@@ -85,7 +85,6 @@ public class PuzzleActivity extends AppCompatActivity {
 
 
     public void shuffleImage(View view) {
-
         boardView.shuffle();
     }
 
